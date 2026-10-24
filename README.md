@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá, Mundo! Sou o Timóteo Gonçalves Colónia 👋</h1>
 
-<!--
-**Timas1150/Timas1150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Estudante do Ensino Médio (SESI) | Técnico em Desenvolvimento de Sistemas (SENAI - SP) 🇧🇷</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/timóteo-gonçalves-colónia-b87621404" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:lemem5601@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/Timas1150" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre Mim
+* 🎓 **Formação:** Aluno do SESI e cursando o Técnico em Desenvolvimento de Sistemas no **SENAI de São Paulo**.
+* 🌍 **Objetivo de Carreira:** Desenvolver uma sólida trajetória profissional na **Europa**, buscando oportunidades globais na área de tecnologia.
+* 💡 **Foco Atual:** Aprimorar minhas habilidades em desenvolvimento backend, estruturação de dados e construção de aplicações eficientes.
+
+---
+
+### 🛠️ Arsenal Técnico
+
+<p align="left">
+  <!-- Linguagens e Tecnologias -->
+  <img src="https://skillicons.dev/icons?i=py,php,html,css,postgres,git,vscode" alt="Tecnologias que utilizo" />
+</p>
+
+* **Linguagens:** Python, PHP, HTML5, CSS3 (Básico).
+* **Banco de Dados & Modelagem:** PostgreSQL, modelagem e criação de diagramas relacionais, além de conceitos fundamentais de banco de dados.
+* **Ferramentas:** Git, GitHub, VS Code.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Timas1150&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Timóteo"/>
+</p>
