@@ -26,13 +26,19 @@
 ### 🛠️ Arsenal Técnico
 
 <p align="left">
-  <!-- Linguagens e Tecnologias -->
   <img src="https://skillicons.dev/icons?i=py,php,html,css,postgres,git,vscode" alt="Tecnologias que utilizo" />
 </p>
 
 * **Linguagens:** Python, PHP, HTML5, CSS3 (Básico).
 * **Banco de Dados & Modelagem:** PostgreSQL, modelagem e criação de diagramas relacionais, além de conceitos fundamentais de banco de dados.
 * **Ferramentas:** Git, GitHub, VS Code.
+
+---
+
+### 🎯 Hobbies e Lazer
+Quando não estou estudando código ou modelando bancos de dados, você provavelmente vai me encontrar:
+* ⚽ Jogando e assistindo a partidas de futebol (ou curtindo uns jogos de FIFA).
+* 🍿 Maratonando séries e assistindo a bons filmes.
 
 ---
 
