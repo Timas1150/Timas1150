@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Sobre Mim
-* 🎓 **Formação:** Aluno do SESI e cursando o Técnico em Desenvolvimento de Sistemas no **SENAI de São Paulo**.
+* 🎓 **Formação:** Aluno do SESI e cursando o Técnico em Desenvolvimento de Sistemas no **SENAI de Americana**.
 * 🌍 **Objetivo de Carreira:** Desenvolver uma sólida trajetória profissional na **Europa**, buscando oportunidades globais na área de tecnologia.
 * 💡 **Foco Atual:** Aprimorar minhas habilidades em desenvolvimento backend, estruturação de dados e construção de aplicações eficientes.
 
