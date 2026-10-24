@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Mundo! Sou o Timóteo Gonçalves Colónia 👋</h1>
+<h1 align="center">Olá, Mundo! Sou o Timóteo 👋</h1>
 
 <h3 align="center">Estudante do Ensino Médio (SESI) | Técnico em Desenvolvimento de Sistemas (SENAI - SP) 🇧🇷</h3>
 
